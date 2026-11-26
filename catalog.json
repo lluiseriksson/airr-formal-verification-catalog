@@ -1,0 +1,718 @@
+{
+  "updated_at": "2026-11-26T06:06:53.615483+00:00",
+  "author": "Lluis Eriksson",
+  "archive_url": "https://airr.science/",
+  "count": 71,
+  "papers": [
+    {
+      "number": 81,
+      "arr_id": "ARR-2026-1QZ9F8TJE880DVZW",
+      "title": "Exact Dual-Ring, Bini-Interpolation, and Constructive Lean 4 Certificates for Deterministic Real Matrix-Product Verification Complexity",
+      "primary_subject": "Computer and information sciences",
+      "source_preprint": "arXiv:2611.34814v1",
+      "url": "https://airr.science/papers/ARR-2026-1QZ9F8TJE880DVZW/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-1QZ9F8TJE880DVZW/ARR-2026-1QZ9F8TJE880DVZW-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/det-matrix-product-verification-certificates"
+    },
+    {
+      "number": 80,
+      "arr_id": "ARR-2026-2PKV0NF5DW8MTVFF",
+      "title": "Exact Rational LDL^T Gram Certification and Constructive Lean 4 Formalization of Real Equiangular Lines in Dimensions 18-20 and Sharp Fixed-Angle Bounds",
+      "primary_subject": "Mathematics",
+      "source_preprint": "arXiv:2611.34855v1",
+      "url": "https://airr.science/papers/ARR-2026-2PKV0NF5DW8MTVFF/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-2PKV0NF5DW8MTVFF/ARR-2026-2PKV0NF5DW8MTVFF-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/real-equiangular-lines-18-20-certificates"
+    },
+    {
+      "number": 79,
+      "arr_id": "ARR-2026-55WWN4JTQF9MX972",
+      "title": "Exact Rational LDL^T Block Certification and Constructive Lean 4 Formalization of Negative-Partial-Transpose Bound Entanglement in C^8 x C^8",
+      "primary_subject": "Physical sciences",
+      "source_preprint": "arXiv:2611.34921v1",
+      "url": "https://airr.science/papers/ARR-2026-55WWN4JTQF9MX972/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-55WWN4JTQF9MX972/ARR-2026-55WWN4JTQF9MX972-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/npt-bound-entanglement-certificates"
+    },
+    {
+      "number": 78,
+      "arr_id": "ARR-2026-3NGWG4AB1Y9WNB4P",
+      "title": "Exact Primal-Dual Curvature and Constructive Lean 4 Certificates for Topological Clique Exclusion in Positively Curved Graphs",
+      "primary_subject": "Mathematics",
+      "source_preprint": "arXiv:2611.33694v1",
+      "url": "https://airr.science/papers/ARR-2026-3NGWG4AB1Y9WNB4P/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-3NGWG4AB1Y9WNB4P/ARR-2026-3NGWG4AB1Y9WNB4P-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/positive-curvature-clique-exclusion-certificates"
+    },
+    {
+      "number": 77,
+      "arr_id": "ARR-2026-5PYF357CCN84DRP8",
+      "title": "Exact Cyclotomic and Constructive Lean 4 Certificates for Symmetric Identities and Determinants of Legendre-Symbol Matrices",
+      "primary_subject": "Mathematics",
+      "source_preprint": "arXiv:2611.33667v1",
+      "url": "https://airr.science/papers/ARR-2026-5PYF357CCN84DRP8/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-5PYF357CCN84DRP8/ARR-2026-5PYF357CCN84DRP8-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/legendre-symbol-determinants-certificates"
+    },
+    {
+      "number": 76,
+      "arr_id": "ARR-2026-0WKHQBJJDA8C4VPT",
+      "title": "Exact Rational and Constructive Lean 4 Certificates for Non-Additivity of Extension Complexity Under Cartesian Products",
+      "primary_subject": "Mathematics",
+      "source_preprint": "arXiv:2611.33631v1",
+      "url": "https://airr.science/papers/ARR-2026-0WKHQBJJDA8C4VPT/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-0WKHQBJJDA8C4VPT/ARR-2026-0WKHQBJJDA8C4VPT-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/extension-complexity-cartesian-certificates"
+    },
+    {
+      "number": 75,
+      "arr_id": "ARR-2026-0WKHQBJJDA8C4VPT",
+      "title": "Exact Rational and Constructive Lean 4 Certificates for Triangles Without Pentagons, Induced C4-C5 Extremal Graphs, and 3-Uniform Berge-Cycle Hypergraphs",
+      "primary_subject": "Mathematics",
+      "source_preprint": "arXiv:2611.33685v1",
+      "url": "https://airr.science/papers/ARR-2026-0WKHQBJJDA8C4VPT/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-0WKHQBJJDA8C4VPT/ARR-2026-0WKHQBJJDA8C4VPT-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/triangles-without-pentagons-certificates"
+    },
+    {
+      "number": 74,
+      "arr_id": "ARR-2026-06KPNWVHZG9PVRQA",
+      "title": "Constructive Truncation, Pellet-Graeffe, and Block-Multipoint Certificates for Nearly Optimal Deterministic Integer Root Finding",
+      "primary_subject": "Computer and information sciences",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-06KPNWVHZG9PVRQA/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-06KPNWVHZG9PVRQA/ARR-2026-06KPNWVHZG9PVRQA-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/nearly-optimal-integer-roots-certificates"
+    },
+    {
+      "number": 73,
+      "arr_id": "ARR-2026-7WG098440Z90ATV1",
+      "title": "Constructive Algebraic, Synchronization, and Pure-Integer Perron Certificates for the Lambda > 2.229206 Ternary Cap-Set Growth Lower Bound",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-7WG098440Z90ATV1/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-7WG098440Z90ATV1/ARR-2026-7WG098440Z90ATV1-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/ternary-cap-set-growth-certificates"
+    },
+    {
+      "number": 72,
+      "arr_id": "ARR-2026-0RD4KBMT418VAS9J",
+      "title": "Constructive Graph State-Sum, Isoperimetric, and Dyadic-Placement Certificates for Separating Valiant's Algebraic Hierarchy",
+      "primary_subject": "Computer and information sciences",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-0RD4KBMT418VAS9J/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-0RD4KBMT418VAS9J/ARR-2026-0RD4KBMT418VAS9J-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/openai-valiant-hierarchy-grids-certificates"
+    },
+    {
+      "number": 71,
+      "arr_id": "ARR-2026-2YH6P5DK508SAASF",
+      "title": "Constructive Algebraic, Guarded-Shift, and Newton-Reduction Certificates for the 1/2 Logarithmic Exponent of Integer Multiplication on Tapes",
+      "primary_subject": "Computer and information sciences",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-2YH6P5DK508SAASF/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-2YH6P5DK508SAASF/ARR-2026-2YH6P5DK508SAASF-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/openai-tape-int-mult-certificates"
+    },
+    {
+      "number": 70,
+      "arr_id": "ARR-2026-1P70DTZXJ180HVKY",
+      "title": "Constructive Algebraic, Poincar\u00e9, and Cartier-Residue Certificates for Permanent and Hamiltonian Cycle Circuit Lower Bounds",
+      "primary_subject": "Computer and information sciences",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-1P70DTZXJ180HVKY/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-1P70DTZXJ180HVKY/ARR-2026-1P70DTZXJ180HVKY-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/openai-permanent-hamiltonian-circuit-certificates"
+    },
+    {
+      "number": 69,
+      "arr_id": "ARR-2026-1BXNNHNTEA8DAB2R",
+      "title": "Constructive Algebraic and Spectral-Repair Certificates for the 1/2 Logarithmic Exponent of Finite Fourier Transforms",
+      "primary_subject": "Computer and information sciences",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-1BXNNHNTEA8DAB2R/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-1BXNNHNTEA8DAB2R/ARR-2026-1BXNNHNTEA8DAB2R-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/openai-fft-logarithmic-exponent-certificates"
+    },
+    {
+      "number": 68,
+      "arr_id": "ARR-2026-6RK7HQEYXP94Q81T",
+      "title": "Constructive Rational and Exterior-Algebra Certificates for Euclidean Geometry in the Asymptotic Spectrum of Tensors",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-6RK7HQEYXP94Q81T/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-6RK7HQEYXP94Q81T/ARR-2026-6RK7HQEYXP94Q81T-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/openai-tensor-asymptotic-spectrum-certificates"
+    },
+    {
+      "number": 67,
+      "arr_id": "ARR-2026-43WEM636W39TS8WZ",
+      "title": "paper67-openai-strongly-polynomial-lp-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-43WEM636W39TS8WZ/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-43WEM636W39TS8WZ/ARR-2026-43WEM636W39TS8WZ-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/openai-strongly-polynomial-lp-certificates"
+    },
+    {
+      "number": 66,
+      "arr_id": "ARR-2026-3YQHMT7VSV82FRE5",
+      "title": "paper66-openai-simple-polytope-diameter-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-3YQHMT7VSV82FRE5/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-3YQHMT7VSV82FRE5/ARR-2026-3YQHMT7VSV82FRE5-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/openai-simple-polytope-diameter-certificates"
+    },
+    {
+      "number": 65,
+      "arr_id": "ARR-2026-4D35ZWFDEB96WSSE",
+      "title": "paper65-openai-erdos-rado-sunflower-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-4D35ZWFDEB96WSSE/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-4D35ZWFDEB96WSSE/ARR-2026-4D35ZWFDEB96WSSE-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/openai-erdos-rado-sunflower-certificates"
+    },
+    {
+      "number": 64,
+      "arr_id": "ARR-2026-1E5QXZDKD291RAWQ",
+      "title": "paper64-openai-vp-vnp-separation-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-1E5QXZDKD291RAWQ/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-1E5QXZDKD291RAWQ/ARR-2026-1E5QXZDKD291RAWQ-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/openai-vp-vnp-separation-certificates"
+    },
+    {
+      "number": 63,
+      "arr_id": "ARR-2026-4VF6YDGTVZ9F3TSX",
+      "title": "paper63-openai-omega-nine-fourths-lower-bound-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-4VF6YDGTVZ9F3TSX/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-4VF6YDGTVZ9F3TSX/ARR-2026-4VF6YDGTVZ9F3TSX-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/openai-omega-nine-fourths-lower-bound-certificates"
+    },
+    {
+      "number": 62,
+      "arr_id": "ARR-2026-5WM59DHC7V9J3R1D",
+      "title": "paper62-cogentic-l13-factorization-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-5WM59DHC7V9J3R1D/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-5WM59DHC7V9J3R1D/ARR-2026-5WM59DHC7V9J3R1D-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/cogentic-l13-factorization-certificates"
+    },
+    {
+      "number": 61,
+      "arr_id": "ARR-2026-4RHFZFBVBA886AX3",
+      "title": "paper61-cogentic-deterministic-factoring-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-4RHFZFBVBA886AX3/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-4RHFZFBVBA886AX3/ARR-2026-4RHFZFBVBA886AX3-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/cogentic-deterministic-factoring-certificates"
+    },
+    {
+      "number": 60,
+      "arr_id": "ARR-2026-01PYB3Q92196PV85",
+      "title": "paper60-cogentic-edge-reconstruction-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-01PYB3Q92196PV85/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-01PYB3Q92196PV85/ARR-2026-01PYB3Q92196PV85-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/cogentic-edge-reconstruction-certificates"
+    },
+    {
+      "number": 59,
+      "arr_id": "ARR-2026-2J6J7BBBKX9V5R3K",
+      "title": "paper59-cogentic-discrete-log-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-2J6J7BBBKX9V5R3K/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-2J6J7BBBKX9V5R3K/ARR-2026-2J6J7BBBKX9V5R3K-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/cogentic-discrete-log-certificates"
+    },
+    {
+      "number": 58,
+      "arr_id": "ARR-2026-16CA0GVRBP95WSCZ",
+      "title": "paper58-cogentic-logrank-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-16CA0GVRBP95WSCZ/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-16CA0GVRBP95WSCZ/ARR-2026-16CA0GVRBP95WSCZ-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/cogentic-logrank-certificates"
+    },
+    {
+      "number": 57,
+      "arr_id": "ARR-2026-5JHSRFTNKG8Z49RC",
+      "title": "paper57-openai-strassen-nine-fourths-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-5JHSRFTNKG8Z49RC/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-5JHSRFTNKG8Z49RC/ARR-2026-5JHSRFTNKG8Z49RC-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/openai-strassen-nine-fourths-certificates"
+    },
+    {
+      "number": 56,
+      "arr_id": "ARR-2026-5N6JS427YN8X7R1F",
+      "title": "paper56-cogentic-maximin-kite-nash-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-5N6JS427YN8X7R1F/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-5N6JS427YN8X7R1F/ARR-2026-5N6JS427YN8X7R1F-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/cogentic-maximin-kite-nash-certificates"
+    },
+    {
+      "number": 55,
+      "arr_id": "ARR-2026-7CGNY373NA8DBBMT",
+      "title": "paper55-euclidean-diameter-streaming-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-7CGNY373NA8DBBMT/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-7CGNY373NA8DBBMT/ARR-2026-7CGNY373NA8DBBMT-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/euclidean-diameter-streaming-certificates"
+    },
+    {
+      "number": 54,
+      "arr_id": "ARR-2026-33WRPE9H2N84PR9Q",
+      "title": "paper54-delegation-downward-closed-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-33WRPE9H2N84PR9Q/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-33WRPE9H2N84PR9Q/ARR-2026-33WRPE9H2N84PR9Q-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/delegation-downward-closed-certificates"
+    },
+    {
+      "number": 53,
+      "arr_id": "ARR-2026-78692NDYXK8B3R6S",
+      "title": "paper53-revenue-query-sample-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-78692NDYXK8B3R6S/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-78692NDYXK8B3R6S/ARR-2026-78692NDYXK8B3R6S-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/revenue-query-sample-certificates"
+    },
+    {
+      "number": 52,
+      "arr_id": "ARR-2026-5V4TDD4KME94RA75",
+      "title": "paper52-mms-allocations-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-5V4TDD4KME94RA75/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-5V4TDD4KME94RA75/ARR-2026-5V4TDD4KME94RA75-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/mms-allocations-certificates"
+    },
+    {
+      "number": 51,
+      "arr_id": "ARR-2026-79CS7K6ZE58JYRQ7",
+      "title": "paper51-alphabeta-monadic-continuations-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-79CS7K6ZE58JYRQ7/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-79CS7K6ZE58JYRQ7/ARR-2026-79CS7K6ZE58JYRQ7-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/alphabeta-monadic-continuations-certificates"
+    },
+    {
+      "number": 50,
+      "arr_id": "ARR-2026-7XP2FNRAAB96S8MP",
+      "title": "paper50-expansion-return-prob-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-7XP2FNRAAB96S8MP/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-7XP2FNRAAB96S8MP/ARR-2026-7XP2FNRAAB96S8MP-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/expansion-return-prob-certificates"
+    },
+    {
+      "number": 49,
+      "arr_id": "ARR-2026-79HZHAG1VW8AKTS6",
+      "title": "paper49-polynomial-decomposition-reconfig-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-79HZHAG1VW8AKTS6/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-79HZHAG1VW8AKTS6/ARR-2026-79HZHAG1VW8AKTS6-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/polynomial-decomposition-reconfig-certificates"
+    },
+    {
+      "number": 48,
+      "arr_id": "ARR-2026-55XADDGK3Q8TES2E",
+      "title": "paper48-oblivious-unambiguous-hierarchies-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-55XADDGK3Q8TES2E/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-55XADDGK3Q8TES2E/ARR-2026-55XADDGK3Q8TES2E-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/oblivious-unambiguous-hierarchies-certificates"
+    },
+    {
+      "number": 47,
+      "arr_id": "ARR-2026-3H5P6W2XWQ98K81C",
+      "title": "paper47-downward-closed-delegation-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-3H5P6W2XWQ98K81C/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-3H5P6W2XWQ98K81C/ARR-2026-3H5P6W2XWQ98K81C-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/delegation-29-70-certificates"
+    },
+    {
+      "number": 46,
+      "arr_id": "ARR-2026-1720XAFY909BC9QE",
+      "title": "paper46-koashi-imoto-visible-compression-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-1720XAFY909BC9QE/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-1720XAFY909BC9QE/ARR-2026-1720XAFY909BC9QE-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/koashi-imoto-visible-compression-certificates"
+    },
+    {
+      "number": 45,
+      "arr_id": "ARR-2026-1MTAKEP0F086AS8D",
+      "title": "paper45-envy-free-cake5-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-1MTAKEP0F086AS8D/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-1MTAKEP0F086AS8D/ARR-2026-1MTAKEP0F086AS8D-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/envy-free-cake5-certificates"
+    },
+    {
+      "number": 44,
+      "arr_id": "ARR-2026-52KPQAG60R9SRBQA",
+      "title": "paper44-polynomial-master-equations-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-52KPQAG60R9SRBQA/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-52KPQAG60R9SRBQA/ARR-2026-52KPQAG60R9SRBQA-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/polynomial-master-equations-certificates"
+    },
+    {
+      "number": 43,
+      "arr_id": "ARR-2026-6F537FT31Z903828",
+      "title": "paper43-mpnn-degbsat-nexptime-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-6F537FT31Z903828/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-6F537FT31Z903828/ARR-2026-6F537FT31Z903828-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/mpnn-degbsat-nexptime-certificates"
+    },
+    {
+      "number": 42,
+      "arr_id": "ARR-2026-08SHSTASY28VGB31",
+      "title": "paper42-gap-hamming-disambiguation-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-08SHSTASY28VGB31/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-08SHSTASY28VGB31/ARR-2026-08SHSTASY28VGB31-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/gap-hamming-disambiguation-certificates"
+    },
+    {
+      "number": 41,
+      "arr_id": "ARR-2026-35T3DP66VF8YK9DC",
+      "title": "paper41-torus-acc0-approximation-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-35T3DP66VF8YK9DC/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-35T3DP66VF8YK9DC/ARR-2026-35T3DP66VF8YK9DC-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/torus-acc0-approximation-certificates"
+    },
+    {
+      "number": 40,
+      "arr_id": "ARR-2026-422KRPSP0Q96DTVT",
+      "title": "paper40-hyperplane-arrangement-traversal-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-422KRPSP0Q96DTVT/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-422KRPSP0Q96DTVT/ARR-2026-422KRPSP0Q96DTVT-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/hyperplane-arrangement-traversal-certificates"
+    },
+    {
+      "number": 39,
+      "arr_id": "ARR-2026-41TR9NBJVV9QKVP1",
+      "title": "paper39-asymptotic-mms-allocation-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-41TR9NBJVV9QKVP1/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-41TR9NBJVV9QKVP1/ARR-2026-41TR9NBJVV9QKVP1-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/asymptotic-mms-allocation-certificates"
+    },
+    {
+      "number": 38,
+      "arr_id": "ARR-2026-5G4EGTRH2N9FGTXD",
+      "title": "paper38-linear-swap-regret-polyhedral-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-5G4EGTRH2N9FGTXD/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-5G4EGTRH2N9FGTXD/ARR-2026-5G4EGTRH2N9FGTXD-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/linear-swap-regret-polyhedral-certificates"
+    },
+    {
+      "number": 37,
+      "arr_id": "ARR-2026-2ARNEBQZT19X0R7E",
+      "title": "paper37-euclidean-diameter-stream-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-2ARNEBQZT19X0R7E/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-2ARNEBQZT19X0R7E/ARR-2026-2ARNEBQZT19X0R7E-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/euclidean-diameter-stream-certificates"
+    },
+    {
+      "number": 36,
+      "arr_id": "ARR-2026-5QHZQBZEGB8D6VHG",
+      "title": "paper36-downward-closed-delegation-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-5QHZQBZEGB8D6VHG/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-5QHZQBZEGB8D6VHG/ARR-2026-5QHZQBZEGB8D6VHG-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/downward-closed-delegation-certificates"
+    },
+    {
+      "number": 35,
+      "arr_id": "ARR-2026-5YWR6ZMHE98PQBAM",
+      "title": "paper35-hypergraph-blowup-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-5YWR6ZMHE98PQBAM/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-5YWR6ZMHE98PQBAM/ARR-2026-5YWR6ZMHE98PQBAM-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/hypergraph-blowup-certificates"
+    },
+    {
+      "number": 34,
+      "arr_id": "ARR-2026-7Q3E1RF3WQ9J8SX0",
+      "title": "paper34-nogo-pspace-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-7Q3E1RF3WQ9J8SX0/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-7Q3E1RF3WQ9J8SX0/ARR-2026-7Q3E1RF3WQ9J8SX0-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/nogo-pspace-certificates"
+    },
+    {
+      "number": 33,
+      "arr_id": "ARR-2026-68VR3XCP679YZVAR",
+      "title": "paper33-oblivious-unambiguous-hierarchy-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-68VR3XCP679YZVAR/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-68VR3XCP679YZVAR/ARR-2026-68VR3XCP679YZVAR-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/oblivious-unambiguous-hierarchy-certificates"
+    },
+    {
+      "number": 32,
+      "arr_id": "ARR-2026-6J82K19XZT9GTR9V",
+      "title": "paper32-bootstrap-tower-transition-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-6J82K19XZT9GTR9V/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-6J82K19XZT9GTR9V/ARR-2026-6J82K19XZT9GTR9V-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/bootstrap-tower-transition-certificates"
+    },
+    {
+      "number": 31,
+      "arr_id": "ARR-2026-0AP007VWQM9T0879",
+      "title": "paper31-koszul-wordle-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-0AP007VWQM9T0879/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-0AP007VWQM9T0879/ARR-2026-0AP007VWQM9T0879-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/koszul-wordle-certificates"
+    },
+    {
+      "number": 30,
+      "arr_id": "ARR-2026-2R3DSVVJ2S9H5B1H",
+      "title": "paper30-dominoes-common-figure-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-2R3DSVVJ2S9H5B1H/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-2R3DSVVJ2S9H5B1H/ARR-2026-2R3DSVVJ2S9H5B1H-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/dominoes-common-figure-certificates"
+    },
+    {
+      "number": 29,
+      "arr_id": "ARR-2026-18H8TNNF498HXTTD",
+      "title": "paper29-connectivity-switching-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-18H8TNNF498HXTTD/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-18H8TNNF498HXTTD/ARR-2026-18H8TNNF498HXTTD-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/connectivity-switching-certificates"
+    },
+    {
+      "number": 28,
+      "arr_id": "ARR-2026-2FNF76TQBF8W0SRK",
+      "title": "paper28-reconfiguration-poly-decomp-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-2FNF76TQBF8W0SRK/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-2FNF76TQBF8W0SRK/ARR-2026-2FNF76TQBF8W0SRK-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/reconfiguration-poly-decomp-certificates"
+    },
+    {
+      "number": 27,
+      "arr_id": "ARR-2026-27PK9G1HEF8DX8W8",
+      "title": "paper27-quantum-polytime-space-lower-bounds-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-27PK9G1HEF8DX8W8/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-27PK9G1HEF8DX8W8/ARR-2026-27PK9G1HEF8DX8W8-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/quantum-polytime-space-lower-bounds-certificates"
+    },
+    {
+      "number": 26,
+      "arr_id": "ARR-2026-2A7A1Z3VY68K0SN8",
+      "title": "paper26-canonical-euclidean-gallai-certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-2A7A1Z3VY68K0SN8/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-2A7A1Z3VY68K0SN8/ARR-2026-2A7A1Z3VY68K0SN8-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/canonical-euclidean-gallai-certificates"
+    },
+    {
+      "number": 25,
+      "arr_id": "ARR-2026-1DYMX4K6TN9HQV9N",
+      "title": "Machine-Checked Exact-Rational Primal-Dual Cut-Covering and Better-Than-3 Approximation Certificates for 2-Edge-Connected Spanning Subgraphs",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-1DYMX4K6TN9HQV9N/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-1DYMX4K6TN9HQV9N/ARR-2026-1DYMX4K6TN9HQV9N-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/primal-dual-2ecss-certificates"
+    },
+    {
+      "number": 24,
+      "arr_id": "ARR-2026-1YD5GXKHN68H0ASP",
+      "title": "Machine-Checked Exact-Rational Koashi-Imoto Decomposition, Qubit Dichotomy, and Pure-Atom Certificates for Holevo-Rate Visible Compression",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-1YD5GXKHN68H0ASP/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-1YD5GXKHN68H0ASP/ARR-2026-1YD5GXKHN68H0ASP-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/koashi-imoto-holevo-certificates"
+    },
+    {
+      "number": 23,
+      "arr_id": "ARR-2026-2W3GMM8ZPH94XTES",
+      "title": "Machine-Checked Exact-Rational Anchor Robustness, Hall-Matching, and Contiguous Allocation Certificates for Five-Agent Envy-Free Cake Cutting",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-2W3GMM8ZPH94XTES/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-2W3GMM8ZPH94XTES/ARR-2026-2W3GMM8ZPH94XTES-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/envy-free-five-agent-certificates"
+    },
+    {
+      "number": 22,
+      "arr_id": "ARR-2026-7B10MGCZ808B4TNQ",
+      "title": "Machine-Checked Exact-Rational Free-Probability Certificates for Sparse Random Hamiltonians, Non-Crossing Cumulant Bijections, and Spiked Spectral Phase Transitions",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-7B10MGCZ808B4TNQ/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-7B10MGCZ808B4TNQ/ARR-2026-7B10MGCZ808B4TNQ-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/free-prob-sparse-hamiltonian-certificates"
+    },
+    {
+      "number": 21,
+      "arr_id": "ARR-2026-1NH5K9B7DW9YV96Q",
+      "title": "Exact-Fp/Z Cartier-Operator, Laurent Pole-Cancellation, and Residue-Pin Eigenvector Certificates with a Machine-Checked Integer Kernel",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-1NH5K9B7DW9YV96Q/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-1NH5K9B7DW9YV96Q/ARR-2026-1NH5K9B7DW9YV96Q-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/border-vp-vnp-residue-certificates"
+    },
+    {
+      "number": 20,
+      "arr_id": "ARR-2026-5YWN4YZAA09TS9RM",
+      "title": "Exact-Q Graph State-Sum Contraction Evaluators and Machine-Checked Algebraic Kernel for Paths, Binary Trees, and Square Grids",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-5YWN4YZAA09TS9RM/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-5YWN4YZAA09TS9RM/ARR-2026-5YWN4YZAA09TS9RM-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/valiant-hierarchy-certificates"
+    },
+    {
+      "number": 19,
+      "arr_id": "ARR-2026-6KYEM760529VAR7T",
+      "title": "Machine-Checked 2D Euclidean Distance Kernel and Exact-Q Polygon Mean-Width, Similarity, and Budget Certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-6KYEM760529VAR7T/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-6KYEM760529VAR7T/ARR-2026-6KYEM760529VAR7T-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/asymptotic-spectrum-geometry-certificates"
+    },
+    {
+      "number": 13,
+      "arr_id": "ARR-2026-4HWS8ZEJ0P9KJT7T",
+      "title": "Morgenstern Gate-Bit Conservation, Complex-FFT vs. Finite-Field NTT Precision Dichotomy, and Exact Straight-Line Circuit Certificates from the N(log N)^(1/2) Fourier Exponent",
+      "primary_subject": "eu-2ba1c7ad-2532-4cd7-8c5c-60f090a8700a",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-4HWS8ZEJ0P9KJT7T/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-4HWS8ZEJ0P9KJT7T/ARR-2026-4HWS8ZEJ0P9KJT7T-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/fourier-sqrtlog-certificates"
+    },
+    {
+      "number": 12,
+      "arr_id": "ARR-2026-4HZ8AEZJQJ9S3BHV",
+      "title": "Exact-Q Cross-Domain Complexity Phase Diagrams and Zero-Penalty Saturation from omega(F; a, b, c) and Euclidean Mean-Width Tensor Pricing",
+      "primary_subject": "eu-2ba1c7ad-2532-4cd7-8c5c-60f090a8700a",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-4HZ8AEZJQJ9S3BHV/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-4HZ8AEZJQJ9S3BHV/ARR-2026-4HZ8AEZJQJ9S3BHV-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/nine-fourths-phase-certificates"
+    },
+    {
+      "number": 10,
+      "arr_id": "ARR-2026-0R1SAGQT3H826T6C",
+      "title": "Exact-Q Finite-Setting Steering Gap Laws, Rational Polytope Certificates, and Machine-Checked Two-Copy Superactivation of PVM-Critical Two-Qubit States",
+      "primary_subject": "eu-2ba1c7ad-2532-4cd7-8c5c-60f090a8700a",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-0R1SAGQT3H826T6C/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-0R1SAGQT3H826T6C/ARR-2026-0R1SAGQT3H826T6C-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/critical-steering-certificates"
+    },
+    {
+      "number": 7,
+      "arr_id": "ARR-2026-50FG4710VG9YXTQP",
+      "title": "Universal Even-Odd Coherent-Error Parity Dichotomy, Swap-Point Criticality, and Exact-Q Decoding Certificates for CSS Quantum Codes",
+      "primary_subject": "eu-2ba1c7ad-2532-4cd7-8c5c-60f090a8700a",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-50FG4710VG9YXTQP/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-50FG4710VG9YXTQP/ARR-2026-50FG4710VG9YXTQP-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/coherent-css-dichotomy"
+    },
+    {
+      "number": 5,
+      "arr_id": "ARR-2026-05022X80229X1V76",
+      "title": "Tropical Spanning Criteria, Exact F2-Polynomial No-Strings Certificates, and Machine-Checked Energy-Barrier Bounds for 3D Translation-Invariant Stabilizer Codes",
+      "primary_subject": "eu-2ba1c7ad-2532-4cd7-8c5c-60f090a8700a",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-05022X80229X1V76/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-05022X80229X1V76/ARR-2026-05022X80229X1V76-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/fracton-barrier-certificates"
+    },
+    {
+      "number": 3,
+      "arr_id": "ARR-2026-07TQHSTB0V8RQ90D",
+      "title": "Shift-Invariant Cumulant Laws, Exact Stieltjes-Hankel Upper Certificates, and Minimax Resolution Limits for Continuum Spectral Edges from Imaginary-Time Evolution",
+      "primary_subject": "eu-2ba1c7ad-2532-4cd7-8c5c-60f090a8700a",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-07TQHSTB0V8RQ90D/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-07TQHSTB0V8RQ90D/ARR-2026-07TQHSTB0V8RQ90D-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/continuum-edge-certificates"
+    },
+    {
+      "number": 2,
+      "arr_id": "ARR-2026-5WBVP6JNVD8AESDD",
+      "title": "Exact Sharp Thresholds, Piecewise-Algebraic Squaring Laws, and Machine-Checked Thermodynamic Mass-Gap Certificates for the Reflection-Positive Purity Bootstrap",
+      "primary_subject": "eu-2ba1c7ad-2532-4cd7-8c5c-60f090a8700a",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-5WBVP6JNVD8AESDD/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-5WBVP6JNVD8AESDD/ARR-2026-5WBVP6JNVD8AESDD-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/sharp-purity-bootstrap"
+    },
+    {
+      "number": 1,
+      "arr_id": "ARR-2026-2YMSYGRR9V9TBAJ8",
+      "title": "Holomorphic Obstructions and Surrogate-Debiased Finite-Sample Spectral Certificates for Machine-Learned Quantum Monte Carlo",
+      "primary_subject": "eu-bfd5c444-49dd-4da9-9ad8-d242f724f036",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-2YMSYGRR9V9TBAJ8/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-2YMSYGRR9V9TBAJ8/ARR-2026-2YMSYGRR9V9TBAJ8-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/qcqmc-spectral-certificates"
+    }
+  ]
+}

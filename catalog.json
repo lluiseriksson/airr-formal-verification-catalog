@@ -1,9 +1,39 @@
 {
-  "updated_at": "2026-11-26T10:27:09.196648+00:00",
+  "updated_at": "2026-11-26T12:42:09.652717+00:00",
   "author": "Lluis Eriksson",
   "archive_url": "https://airr.science/",
-  "count": 81,
+  "count": 93,
   "papers": [
+    {
+      "number": 95,
+      "arr_id": "ARR-2026-58NB9TJZQD9Y4A0Z",
+      "title": "Sharp Non-Commuting Operator Constants, Quantitative One-Shot Converse Sharpenings, and Constructive Lean 4.35.0 Formalization for Universal Quantum Randomness Extraction",
+      "primary_subject": "Physical sciences",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-58NB9TJZQD9Y4A0Z/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-58NB9TJZQD9Y4A0Z/ARR-2026-58NB9TJZQD9Y4A0Z-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/universal-extraction-sharp-constants"
+    },
+    {
+      "number": 94,
+      "arr_id": "ARR-2026-6NY7DR66YF94TTAR",
+      "title": "Analytical Neel Optimality, Zero-Float Thermal PPT-Bound Entanglement Proofs, and Constructive Lean 4.35.0 Formalization for Symmetric XY-Chain Covariance Criteria",
+      "primary_subject": "Physical sciences",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-6NY7DR66YF94TTAR/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-6NY7DR66YF94TTAR/ARR-2026-6NY7DR66YF94TTAR-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/xy-chain-cmc-neel-certificates"
+    },
+    {
+      "number": 93,
+      "arr_id": "ARR-2026-6N6C96A4GV96ZRCB",
+      "title": "Obstructions and Constructive Repairs for Shifted Dimensional MATBG Schemes on Deleted Knodel Graphs",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-6N6C96A4GV96ZRCB/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-6N6C96A4GV96ZRCB/ARR-2026-6N6C96A4GV96ZRCB-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/knodel-matbg-obstruction-repair"
+    },
     {
       "number": 92,
       "arr_id": "ARR-2026-01XK18W7DJ8AJAWH",
@@ -163,16 +193,6 @@
       "url": "https://airr.science/papers/ARR-2026-0WKHQBJJDA8C4VPT/",
       "pdf_url": "https://airr.science/papers/ARR-2026-0WKHQBJJDA8C4VPT/ARR-2026-0WKHQBJJDA8C4VPT-v1.pdf",
       "repository_url": "https://github.com/lluiseriksson/extension-complexity-cartesian-certificates"
-    },
-    {
-      "number": 75,
-      "arr_id": "ARR-2026-0WKHQBJJDA8C4VPT",
-      "title": "Exact Rational and Constructive Lean 4 Certificates for Triangles Without Pentagons, Induced C4-C5 Extremal Graphs, and 3-Uniform Berge-Cycle Hypergraphs",
-      "primary_subject": "Mathematics",
-      "source_preprint": "arXiv:2611.33685v1",
-      "url": "https://airr.science/papers/ARR-2026-0WKHQBJJDA8C4VPT/",
-      "pdf_url": "https://airr.science/papers/ARR-2026-0WKHQBJJDA8C4VPT/ARR-2026-0WKHQBJJDA8C4VPT-v1.pdf",
-      "repository_url": "https://github.com/lluiseriksson/triangles-without-pentagons-certificates"
     },
     {
       "number": 74,
@@ -735,6 +755,56 @@
       "repository_url": "https://github.com/lluiseriksson/asymptotic-spectrum-geometry-certificates"
     },
     {
+      "number": 18,
+      "arr_id": "ARR-2026-6W84HHWBAA927T02",
+      "title": "Exact-Z/Q Pairwise-Coprime CRT Multiplication, Walsh-Hadamard Transposition, and Unpaid-Entropy Tape-Barrier Certificates",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-6W84HHWBAA927T02/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-6W84HHWBAA927T02/ARR-2026-6W84HHWBAA927T02-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/tape-multiplication-certificates"
+    },
+    {
+      "number": 17,
+      "arr_id": "ARR-2026-16BTPH7EP28MCT91",
+      "title": "Exact-Q Valiant Coupling-Gadget Certificates, Characteristic-2 Permanent/Hamiltonian Dichotomies, and Machine-Checked Boson-Sampling Permanent Verification",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-16BTPH7EP28MCT91/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-16BTPH7EP28MCT91/ARR-2026-16BTPH7EP28MCT91-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/permanent-hamiltonian-certificates"
+    },
+    {
+      "number": 16,
+      "arr_id": "ARR-2026-5T648K7WRG9EYT22",
+      "title": "Exact-Q Polytope-Diameter Certificates, Projective Doubly-Stochastic Packing Isomorphisms, and Machine-Checked s-Move Lower Bounds for the Disproof of the Polynomial Hirsch Conjecture",
+      "primary_subject": "eu-2ba1c7ad-2532-4cd7-8c5c-60f090a8700a",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-5T648K7WRG9EYT22/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-5T648K7WRG9EYT22/ARR-2026-5T648K7WRG9EYT22-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/polytope-diameter-certificates"
+    },
+    {
+      "number": 15,
+      "arr_id": "ARR-2026-297ZKYBZJ79WXA18",
+      "title": "Exact-Q Primal-Dual Trichotomy Certificates, Staircase Circuit-Imbalance Amplification, and Machine-Checked Soundness for Strongly Polynomial Linear Programming, Convex QP, and Mean-Payoff Games",
+      "primary_subject": "eu-2ba1c7ad-2532-4cd7-8c5c-60f090a8700a",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-297ZKYBZJ79WXA18/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-297ZKYBZJ79WXA18/ARR-2026-297ZKYBZJ79WXA18-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/strongly-poly-lp-certificates"
+    },
+    {
+      "number": 14,
+      "arr_id": "ARR-2026-47K7CK23GX8CAR3W",
+      "title": "Exact-Z/Q Extremal Sunflower-Free Families, Supermultiplicative Base Lower Bounds, and Fixed-Base Crossover Certificates for the Fixed-Petal Sunflower Theorem",
+      "primary_subject": "eu-2ba1c7ad-2532-4cd7-8c5c-60f090a8700a",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-47K7CK23GX8CAR3W/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-47K7CK23GX8CAR3W/ARR-2026-47K7CK23GX8CAR3W-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/sunflower-base-certificates"
+    },
+    {
       "number": 13,
       "arr_id": "ARR-2026-4HWS8ZEJ0P9KJT7T",
       "title": "Morgenstern Gate-Bit Conservation, Complex-FFT vs. Finite-Field NTT Precision Dichotomy, and Exact Straight-Line Circuit Certificates from the N(log N)^(1/2) Fourier Exponent",
@@ -755,6 +825,16 @@
       "repository_url": "https://github.com/lluiseriksson/nine-fourths-phase-certificates"
     },
     {
+      "number": 11,
+      "arr_id": "ARR-2026-71T01WWJSY8DWTFN",
+      "title": "Exact-Q Lorentzian Inertia Certificates, Coincident Down-Up Spectral-Gap Phase Transitions, and Machine-Checked Subgaussian Matrix Concentration for Matroids",
+      "primary_subject": "eu-2ba1c7ad-2532-4cd7-8c5c-60f090a8700a",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-71T01WWJSY8DWTFN/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-71T01WWJSY8DWTFN/ARR-2026-71T01WWJSY8DWTFN-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/lorentzian-matroid-certificates"
+    },
+    {
       "number": 10,
       "arr_id": "ARR-2026-0R1SAGQT3H826T6C",
       "title": "Exact-Q Finite-Setting Steering Gap Laws, Rational Polytope Certificates, and Machine-Checked Two-Copy Superactivation of PVM-Critical Two-Qubit States",
@@ -763,6 +843,26 @@
       "url": "https://airr.science/papers/ARR-2026-0R1SAGQT3H826T6C/",
       "pdf_url": "https://airr.science/papers/ARR-2026-0R1SAGQT3H826T6C/ARR-2026-0R1SAGQT3H826T6C-v1.pdf",
       "repository_url": "https://github.com/lluiseriksson/critical-steering-certificates"
+    },
+    {
+      "number": 9,
+      "arr_id": "ARR-2026-0X7E5WGPSY8JYTN7",
+      "title": "Exact-Q Adjoint-Irrep Variance Laws, Majorana Hodge-Chiral Selection Rules, and Machine-Checked Trainability Certificates for Compact Lie-Group Quantum Circuits",
+      "primary_subject": "eu-2ba1c7ad-2532-4cd7-8c5c-60f090a8700a",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-0X7E5WGPSY8JYTN7/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-0X7E5WGPSY8JYTN7/ARR-2026-0X7E5WGPSY8JYTN7-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/lie-algebra-trainability-certificates"
+    },
+    {
+      "number": 8,
+      "arr_id": "ARR-2026-2GRP8FRXQ492QSZ6",
+      "title": "Exact-Q Sum-of-Squares Hierarchy on the Normal Cone of Q2222: Rational Extreme-Point Parameterization, Four-Tier NPA Separation, and Machine-Checked Visibility Optimality",
+      "primary_subject": "eu-2ba1c7ad-2532-4cd7-8c5c-60f090a8700a",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-2GRP8FRXQ492QSZ6/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-2GRP8FRXQ492QSZ6/ARR-2026-2GRP8FRXQ492QSZ6-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/normal-cone-sos-hierarchy"
     },
     {
       "number": 7,
@@ -775,6 +875,16 @@
       "repository_url": "https://github.com/lluiseriksson/coherent-css-dichotomy"
     },
     {
+      "number": 6,
+      "arr_id": "ARR-2026-07TSMME6JX9MR9QC",
+      "title": "Symplectic Clique-Cover Duality, Signed Frustration Atoms, and Zero-Enumeration Exact-Q Robustness-of-Magic Certificates for Multi-Qubit Quantum States",
+      "primary_subject": "eu-2ba1c7ad-2532-4cd7-8c5c-60f090a8700a",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-07TSMME6JX9MR9QC/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-07TSMME6JX9MR9QC/ARR-2026-07TSMME6JX9MR9QC-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/symplectic-magic-certificates"
+    },
+    {
       "number": 5,
       "arr_id": "ARR-2026-05022X80229X1V76",
       "title": "Tropical Spanning Criteria, Exact F2-Polynomial No-Strings Certificates, and Machine-Checked Energy-Barrier Bounds for 3D Translation-Invariant Stabilizer Codes",
@@ -783,6 +893,16 @@
       "url": "https://airr.science/papers/ARR-2026-05022X80229X1V76/",
       "pdf_url": "https://airr.science/papers/ARR-2026-05022X80229X1V76/ARR-2026-05022X80229X1V76-v1.pdf",
       "repository_url": "https://github.com/lluiseriksson/fracton-barrier-certificates"
+    },
+    {
+      "number": 4,
+      "arr_id": "ARR-2026-3TFT8A9XE99YYV6W",
+      "title": "Quantum Spectral Christoffel-Super-Poincare Inequalities, Exact Piecewise-Logarithmic Mixing Laws, and Machine-Checked Rapid-Mixing Certificates Beyond the Spectral Gap",
+      "primary_subject": "eu-2ba1c7ad-2532-4cd7-8c5c-60f090a8700a",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-3TFT8A9XE99YYV6W/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-3TFT8A9XE99YYV6W/ARR-2026-3TFT8A9XE99YYV6W-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/beyond-gap-gibbs-certificates"
     },
     {
       "number": 3,

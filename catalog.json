@@ -1,68 +1,38 @@
 {
-  "updated_at": "2026-11-26T17:21:20.640677+00:00",
+  "updated_at": "2026-11-26T19:09:08.896056+00:00",
   "author": "Lluis Eriksson",
   "archive_url": "https://airr.science/",
-  "count": 100,
+  "count": 97,
   "papers": [
     {
-      "number": 101,
-      "arr_id": "ARR-2026-6TXZVQ2PC69GKRNW",
-      "title": "paper101-pascal-repeated-entries-sharp-density",
+      "number": 104,
+      "arr_id": "ARR-2026-5X7XQPHX8J8NCS54",
+      "title": "paper104-extensive-form-nfce-sharp-gap-and-hardness",
       "primary_subject": "Mathematics",
       "source_preprint": "",
-      "url": "https://airr.science/papers/ARR-2026-6TXZVQ2PC69GKRNW/",
-      "pdf_url": "https://airr.science/papers/ARR-2026-6TXZVQ2PC69GKRNW/ARR-2026-6TXZVQ2PC69GKRNW-v1.pdf",
-      "repository_url": "https://github.com/lluiseriksson/pascal-repeated-entries-sharp-density"
+      "url": "https://airr.science/papers/ARR-2026-5X7XQPHX8J8NCS54/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-5X7XQPHX8J8NCS54/ARR-2026-5X7XQPHX8J8NCS54-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/extensive-form-nfce-sharp-gap-and-hardness"
     },
     {
-      "number": 100,
-      "arr_id": "ARR-2026-1WPSHPZVX29N9SBD",
-      "title": "paper100-grh-lean-linear-window-sharp-bounds",
+      "number": 103,
+      "arr_id": "ARR-2026-6H3EBH0NN99BJTTE",
+      "title": "paper103-null-cone-gravity-sharp-resummation-tauberian",
       "primary_subject": "Mathematics",
       "source_preprint": "",
-      "url": "https://airr.science/papers/ARR-2026-1WPSHPZVX29N9SBD/",
-      "pdf_url": "https://airr.science/papers/ARR-2026-1WPSHPZVX29N9SBD/ARR-2026-1WPSHPZVX29N9SBD-v1.pdf",
-      "repository_url": "https://github.com/lluiseriksson/grh-lean-linear-window-sharp-bounds"
+      "url": "https://airr.science/papers/ARR-2026-6H3EBH0NN99BJTTE/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-6H3EBH0NN99BJTTE/ARR-2026-6H3EBH0NN99BJTTE-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/null-cone-gravity-sharp-resummation-tauberian"
     },
     {
-      "number": 99,
-      "arr_id": "ARR-2026-26N7SQDMWP9A2T6C",
-      "title": "paper99-unary-tracker-t-count-lower-bounds",
+      "number": 102,
+      "arr_id": "ARR-2026-3BKQDXK56H9CSBKR",
+      "title": "paper102-npt-bound-entanglement-sharp-dimension-family",
       "primary_subject": "Mathematics",
       "source_preprint": "",
-      "url": "https://airr.science/papers/ARR-2026-26N7SQDMWP9A2T6C/",
-      "pdf_url": "https://airr.science/papers/ARR-2026-26N7SQDMWP9A2T6C/ARR-2026-26N7SQDMWP9A2T6C-v1.pdf",
-      "repository_url": "https://github.com/lluiseriksson/unary-tracker-t-count-lower-bounds"
-    },
-    {
-      "number": 98,
-      "arr_id": "ARR-2026-4P0GWBV5QV9BSBP7",
-      "title": "Exact Dicke-State Moments, Certified Single-Round Amplification, and Subquadratic Reversible Routing for Asymptotic Quantum Many-Body Scars",
-      "primary_subject": "Physical sciences",
-      "source_preprint": "",
-      "url": "https://airr.science/papers/ARR-2026-4P0GWBV5QV9BSBP7/",
-      "pdf_url": "https://airr.science/papers/ARR-2026-4P0GWBV5QV9BSBP7/ARR-2026-4P0GWBV5QV9BSBP7-v1.pdf",
-      "repository_url": "https://github.com/lluiseriksson/qmbs-dicke-sharp-moments-routing"
-    },
-    {
-      "number": 97,
-      "arr_id": "ARR-2026-5CDFSC6CK990VAPX",
-      "title": "Exact Closed-Form Copy-Complexity Step Points, the Consecutive-Node Phase Boundary, and Sharpened Blaschke Duals in Local Quantum State Certification",
-      "primary_subject": "Physical sciences",
-      "source_preprint": "",
-      "url": "https://airr.science/papers/ARR-2026-5CDFSC6CK990VAPX/",
-      "pdf_url": "https://airr.science/papers/ARR-2026-5CDFSC6CK990VAPX/ARR-2026-5CDFSC6CK990VAPX-v1.pdf",
-      "repository_url": "https://github.com/lluiseriksson/local-certification-phase-boundary"
-    },
-    {
-      "number": 96,
-      "arr_id": "ARR-2026-137NWXWV7P91ARXP",
-      "title": "Exact Optimal 3^k Generalized-Toffoli Decomposition, N-Independent Chebyshev Filters, and Minimax Advice for AC0 not subset BQAC0/qpoly",
-      "primary_subject": "Computer and information sciences",
-      "source_preprint": "",
-      "url": "https://airr.science/papers/ARR-2026-137NWXWV7P91ARXP/",
-      "pdf_url": "https://airr.science/papers/ARR-2026-137NWXWV7P91ARXP/ARR-2026-137NWXWV7P91ARXP-v1.pdf",
-      "repository_url": "https://github.com/lluiseriksson/qac0-toffoli-chebyshev-sharp-bounds"
+      "url": "https://airr.science/papers/ARR-2026-3BKQDXK56H9CSBKR/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-3BKQDXK56H9CSBKR/ARR-2026-3BKQDXK56H9CSBKR-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/npt-bound-entanglement-sharp-dimension-family"
     },
     {
       "number": 95,

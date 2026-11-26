@@ -2,7 +2,7 @@
 
 **Author:** Lluis Eriksson — [AIRR.SCIENCE](https://airr.science/) | Last updated: **2026-11-26**
 
-Public machine-readable index of **78** independently audited, zero-floating-point Python + constructive Lean 4.35.0 (`0 sorry`, `0 Classical.choice`) verification suites published on [AIRR.SCIENCE](https://airr.science/).
+Public machine-readable index of **81** independently audited, zero-floating-point Python + constructive Lean 4.35.0 (`0 sorry`, `0 Classical.choice`) verification suites published on [AIRR.SCIENCE](https://airr.science/).
 
 Each record links directly to its permanent AIRR.SCIENCE scholarly page (with Google Scholar `citation_*` tags and Schema.org `ScholarlyArticle` JSON-LD), its archived PDF, the source frontier preprint, and its MIT-licensed Lean 4 / Python artifact repository.
 
@@ -10,7 +10,10 @@ Each record links directly to its permanent AIRR.SCIENCE scholarly page (with Go
 
 | # | AIRR Record | Title | Subject | Source | PDF | Code & Lean 4 |
 |---:|---|---|---|---|---|---|
+| 92 | [`ARR-2026-01XK18W7DJ8AJAWH`](https://airr.science/papers/ARR-2026-01XK18W7DJ8AJAWH/) | Formal Algebraic and F2-Circuit Certification for the NP-Completeness of Optimal CNOT Synthesis on Linear Oracles | Computer and information sciences | Original | [PDF](https://airr.science/papers/ARR-2026-01XK18W7DJ8AJAWH/ARR-2026-01XK18W7DJ8AJAWH-v1.pdf) | [GitHub](https://github.com/lluiseriksson/optimal-cnot-hardness-certificates) |
+| 91 | [`ARR-2026-2CVQQQDQ0N9S3TDX`](https://airr.science/papers/ARR-2026-2CVQQQDQ0N9S3TDX/) | Formal Algebraic, Combinatorial, and Rational-Enclosure Certification for Trifferent Codes | Mathematics | Original | [PDF](https://airr.science/papers/ARR-2026-2CVQQQDQ0N9S3TDX/ARR-2026-2CVQQQDQ0N9S3TDX-v1.pdf) | [GitHub](https://github.com/lluiseriksson/trifferent-codes-certificates) |
 | 90 | [`ARR-2026-2JG3PCPJ9X8Y9A8P`](https://airr.science/papers/ARR-2026-2JG3PCPJ9X8Y9A8P/) | Formal Certification of the Nevo-Peeva Gap-Free Regularity Theorem and Hall Filtration Homology | Mathematics | Original | [PDF](https://airr.science/papers/ARR-2026-2JG3PCPJ9X8Y9A8P/ARR-2026-2JG3PCPJ9X8Y9A8P-v1.pdf) | [GitHub](https://github.com/lluiseriksson/nevo-peeva-gapfree-regularity-certificates) |
+| 89 | [`ARR-2026-05T59Z1S1H880ATK`](https://airr.science/papers/ARR-2026-05T59Z1S1H880ATK/) | Arithmetic-Step and Exact-Rational Finite-Witness Certification for Hitting Time Index Bounds, the Degree Threshold, and Lollipop Counterexamples | Mathematics | Original | [PDF](https://airr.science/papers/ARR-2026-05T59Z1S1H880ATK/ARR-2026-05T59Z1S1H880ATK-v1.pdf) | [GitHub](https://github.com/lluiseriksson/hitting-time-index-certificates) |
 | 88 | [`ARR-2026-6F2FCZYGK691XS5S`](https://airr.science/papers/ARR-2026-6F2FCZYGK691XS5S/) | Formal Certification of Non-Additivity of Polytope Extension Complexity Under Cartesian Products | Mathematics | Original | [PDF](https://airr.science/papers/ARR-2026-6F2FCZYGK691XS5S/ARR-2026-6F2FCZYGK691XS5S-v1.pdf) | [GitHub](https://github.com/lluiseriksson/extension-complexity-nonadditivity-certificates) |
 | 87 | [`ARR-2026-22YKWXF9C494X8VP`](https://airr.science/papers/ARR-2026-22YKWXF9C494X8VP/) | Formal Certification of Real Equiangular Lines in Dimensions 18-20, Leech Evaluation Codes, and Sharp Fixed-Angle Bounds | Mathematics | Original | [PDF](https://airr.science/papers/ARR-2026-22YKWXF9C494X8VP/ARR-2026-22YKWXF9C494X8VP-v1.pdf) | [GitHub](https://github.com/lluiseriksson/equiangular-lines-dim18-20-certificates) |
 | 86 | [`ARR-2026-4VGGGBES9N9QKRJ9`](https://airr.science/papers/ARR-2026-4VGGGBES9N9QKRJ9/) | Formal Verification of Algebraic, Spectral, and One-Loop Entropy Bounds in Null-Cone Algebraic Quantum Gravity | Physical sciences | Original | [PDF](https://airr.science/papers/ARR-2026-4VGGGBES9N9QKRJ9/ARR-2026-4VGGGBES9N9QKRJ9-v1.pdf) | [GitHub](https://github.com/lluiseriksson/null-cone-quantum-gravity-certificates) |

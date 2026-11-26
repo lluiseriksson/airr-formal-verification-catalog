@@ -1,9 +1,29 @@
 {
-  "updated_at": "2026-11-26T09:44:23.655273+00:00",
+  "updated_at": "2026-11-26T10:27:09.196648+00:00",
   "author": "Lluis Eriksson",
   "archive_url": "https://airr.science/",
-  "count": 78,
+  "count": 81,
   "papers": [
+    {
+      "number": 92,
+      "arr_id": "ARR-2026-01XK18W7DJ8AJAWH",
+      "title": "Formal Algebraic and F2-Circuit Certification for the NP-Completeness of Optimal CNOT Synthesis on Linear Oracles",
+      "primary_subject": "Computer and information sciences",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-01XK18W7DJ8AJAWH/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-01XK18W7DJ8AJAWH/ARR-2026-01XK18W7DJ8AJAWH-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/optimal-cnot-hardness-certificates"
+    },
+    {
+      "number": 91,
+      "arr_id": "ARR-2026-2CVQQQDQ0N9S3TDX",
+      "title": "Formal Algebraic, Combinatorial, and Rational-Enclosure Certification for Trifferent Codes",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-2CVQQQDQ0N9S3TDX/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-2CVQQQDQ0N9S3TDX/ARR-2026-2CVQQQDQ0N9S3TDX-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/trifferent-codes-certificates"
+    },
     {
       "number": 90,
       "arr_id": "ARR-2026-2JG3PCPJ9X8Y9A8P",
@@ -13,6 +33,16 @@
       "url": "https://airr.science/papers/ARR-2026-2JG3PCPJ9X8Y9A8P/",
       "pdf_url": "https://airr.science/papers/ARR-2026-2JG3PCPJ9X8Y9A8P/ARR-2026-2JG3PCPJ9X8Y9A8P-v1.pdf",
       "repository_url": "https://github.com/lluiseriksson/nevo-peeva-gapfree-regularity-certificates"
+    },
+    {
+      "number": 89,
+      "arr_id": "ARR-2026-05T59Z1S1H880ATK",
+      "title": "Arithmetic-Step and Exact-Rational Finite-Witness Certification for Hitting Time Index Bounds, the Degree Threshold, and Lollipop Counterexamples",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-05T59Z1S1H880ATK/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-05T59Z1S1H880ATK/ARR-2026-05T59Z1S1H880ATK-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/hitting-time-index-certificates"
     },
     {
       "number": 88,

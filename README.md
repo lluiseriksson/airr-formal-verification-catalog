@@ -2,7 +2,7 @@
 
 **Author:** Lluis Eriksson — [AIRR.SCIENCE](https://airr.science/) | Last updated: **2026-11-26**
 
-Public machine-readable index of **97** independently audited, zero-floating-point Python + constructive Lean 4.35.0 (`0 sorry`, `0 Classical.choice`) verification suites published on [AIRR.SCIENCE](https://airr.science/).
+Public machine-readable index of **100** independently audited, zero-floating-point Python + constructive Lean 4.35.0 (`0 sorry`, `0 Classical.choice`) verification suites published on [AIRR.SCIENCE](https://airr.science/).
 
 Each record links directly to its permanent AIRR.SCIENCE scholarly page (with Google Scholar `citation_*` tags and Schema.org `ScholarlyArticle` JSON-LD), its archived PDF, the source frontier preprint, and its MIT-licensed Lean 4 / Python artifact repository.
 
@@ -10,6 +10,9 @@ Each record links directly to its permanent AIRR.SCIENCE scholarly page (with Go
 
 | # | AIRR Record | Title | Subject | Source | PDF | Code & Lean 4 |
 |---:|---|---|---|---|---|---|
+| 101 | [`ARR-2026-6TXZVQ2PC69GKRNW`](https://airr.science/papers/ARR-2026-6TXZVQ2PC69GKRNW/) | paper101-pascal-repeated-entries-sharp-density | Mathematics | Original | [PDF](https://airr.science/papers/ARR-2026-6TXZVQ2PC69GKRNW/ARR-2026-6TXZVQ2PC69GKRNW-v1.pdf) | [GitHub](https://github.com/lluiseriksson/pascal-repeated-entries-sharp-density) |
+| 100 | [`ARR-2026-1WPSHPZVX29N9SBD`](https://airr.science/papers/ARR-2026-1WPSHPZVX29N9SBD/) | paper100-grh-lean-linear-window-sharp-bounds | Mathematics | Original | [PDF](https://airr.science/papers/ARR-2026-1WPSHPZVX29N9SBD/ARR-2026-1WPSHPZVX29N9SBD-v1.pdf) | [GitHub](https://github.com/lluiseriksson/grh-lean-linear-window-sharp-bounds) |
+| 99 | [`ARR-2026-26N7SQDMWP9A2T6C`](https://airr.science/papers/ARR-2026-26N7SQDMWP9A2T6C/) | paper99-unary-tracker-t-count-lower-bounds | Mathematics | Original | [PDF](https://airr.science/papers/ARR-2026-26N7SQDMWP9A2T6C/ARR-2026-26N7SQDMWP9A2T6C-v1.pdf) | [GitHub](https://github.com/lluiseriksson/unary-tracker-t-count-lower-bounds) |
 | 98 | [`ARR-2026-4P0GWBV5QV9BSBP7`](https://airr.science/papers/ARR-2026-4P0GWBV5QV9BSBP7/) | Exact Dicke-State Moments, Certified Single-Round Amplification, and Subquadratic Reversible Routing for Asymptotic Quantum Many-Body Scars | Physical sciences | Original | [PDF](https://airr.science/papers/ARR-2026-4P0GWBV5QV9BSBP7/ARR-2026-4P0GWBV5QV9BSBP7-v1.pdf) | [GitHub](https://github.com/lluiseriksson/qmbs-dicke-sharp-moments-routing) |
 | 97 | [`ARR-2026-5CDFSC6CK990VAPX`](https://airr.science/papers/ARR-2026-5CDFSC6CK990VAPX/) | Exact Closed-Form Copy-Complexity Step Points, the Consecutive-Node Phase Boundary, and Sharpened Blaschke Duals in Local Quantum State Certification | Physical sciences | Original | [PDF](https://airr.science/papers/ARR-2026-5CDFSC6CK990VAPX/ARR-2026-5CDFSC6CK990VAPX-v1.pdf) | [GitHub](https://github.com/lluiseriksson/local-certification-phase-boundary) |
 | 96 | [`ARR-2026-137NWXWV7P91ARXP`](https://airr.science/papers/ARR-2026-137NWXWV7P91ARXP/) | Exact Optimal 3^k Generalized-Toffoli Decomposition, N-Independent Chebyshev Filters, and Minimax Advice for AC0 not subset BQAC0/qpoly | Computer and information sciences | Original | [PDF](https://airr.science/papers/ARR-2026-137NWXWV7P91ARXP/ARR-2026-137NWXWV7P91ARXP-v1.pdf) | [GitHub](https://github.com/lluiseriksson/qac0-toffoli-chebyshev-sharp-bounds) |

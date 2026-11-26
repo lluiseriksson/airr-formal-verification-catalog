@@ -1,9 +1,39 @@
 {
-  "updated_at": "2026-11-26T14:54:24.431599+00:00",
+  "updated_at": "2026-11-26T17:21:20.640677+00:00",
   "author": "Lluis Eriksson",
   "archive_url": "https://airr.science/",
-  "count": 97,
+  "count": 100,
   "papers": [
+    {
+      "number": 101,
+      "arr_id": "ARR-2026-6TXZVQ2PC69GKRNW",
+      "title": "paper101-pascal-repeated-entries-sharp-density",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-6TXZVQ2PC69GKRNW/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-6TXZVQ2PC69GKRNW/ARR-2026-6TXZVQ2PC69GKRNW-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/pascal-repeated-entries-sharp-density"
+    },
+    {
+      "number": 100,
+      "arr_id": "ARR-2026-1WPSHPZVX29N9SBD",
+      "title": "paper100-grh-lean-linear-window-sharp-bounds",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-1WPSHPZVX29N9SBD/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-1WPSHPZVX29N9SBD/ARR-2026-1WPSHPZVX29N9SBD-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/grh-lean-linear-window-sharp-bounds"
+    },
+    {
+      "number": 99,
+      "arr_id": "ARR-2026-26N7SQDMWP9A2T6C",
+      "title": "paper99-unary-tracker-t-count-lower-bounds",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-26N7SQDMWP9A2T6C/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-26N7SQDMWP9A2T6C/ARR-2026-26N7SQDMWP9A2T6C-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/unary-tracker-t-count-lower-bounds"
+    },
     {
       "number": 98,
       "arr_id": "ARR-2026-4P0GWBV5QV9BSBP7",

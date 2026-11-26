@@ -1,9 +1,39 @@
 {
-  "updated_at": "2026-11-26T12:42:09.652717+00:00",
+  "updated_at": "2026-11-26T14:54:24.431599+00:00",
   "author": "Lluis Eriksson",
   "archive_url": "https://airr.science/",
-  "count": 93,
+  "count": 97,
   "papers": [
+    {
+      "number": 98,
+      "arr_id": "ARR-2026-4P0GWBV5QV9BSBP7",
+      "title": "Exact Dicke-State Moments, Certified Single-Round Amplification, and Subquadratic Reversible Routing for Asymptotic Quantum Many-Body Scars",
+      "primary_subject": "Physical sciences",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-4P0GWBV5QV9BSBP7/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-4P0GWBV5QV9BSBP7/ARR-2026-4P0GWBV5QV9BSBP7-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/qmbs-dicke-sharp-moments-routing"
+    },
+    {
+      "number": 97,
+      "arr_id": "ARR-2026-5CDFSC6CK990VAPX",
+      "title": "Exact Closed-Form Copy-Complexity Step Points, the Consecutive-Node Phase Boundary, and Sharpened Blaschke Duals in Local Quantum State Certification",
+      "primary_subject": "Physical sciences",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-5CDFSC6CK990VAPX/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-5CDFSC6CK990VAPX/ARR-2026-5CDFSC6CK990VAPX-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/local-certification-phase-boundary"
+    },
+    {
+      "number": 96,
+      "arr_id": "ARR-2026-137NWXWV7P91ARXP",
+      "title": "Exact Optimal 3^k Generalized-Toffoli Decomposition, N-Independent Chebyshev Filters, and Minimax Advice for AC0 not subset BQAC0/qpoly",
+      "primary_subject": "Computer and information sciences",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-137NWXWV7P91ARXP/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-137NWXWV7P91ARXP/ARR-2026-137NWXWV7P91ARXP-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/qac0-toffoli-chebyshev-sharp-bounds"
+    },
     {
       "number": 95,
       "arr_id": "ARR-2026-58NB9TJZQD9Y4A0Z",
@@ -193,6 +223,16 @@
       "url": "https://airr.science/papers/ARR-2026-0WKHQBJJDA8C4VPT/",
       "pdf_url": "https://airr.science/papers/ARR-2026-0WKHQBJJDA8C4VPT/ARR-2026-0WKHQBJJDA8C4VPT-v1.pdf",
       "repository_url": "https://github.com/lluiseriksson/extension-complexity-cartesian-certificates"
+    },
+    {
+      "number": 75,
+      "arr_id": "ARR-2026-0WKHQBJJDA8C4VPT",
+      "title": "Exact Rational and Constructive Lean 4 Certificates for Triangles Without Pentagons, Induced C4-C5 Extremal Graphs, and 3-Uniform Berge-Cycle Hypergraphs",
+      "primary_subject": "Mathematics",
+      "source_preprint": "arXiv:2611.33685v1",
+      "url": "https://airr.science/papers/ARR-2026-0WKHQBJJDA8C4VPT/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-0WKHQBJJDA8C4VPT/ARR-2026-0WKHQBJJDA8C4VPT-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/triangles-without-pentagons-certificates"
     },
     {
       "number": 74,

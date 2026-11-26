@@ -1,9 +1,29 @@
 {
-  "updated_at": "2026-11-26T06:06:53.615483+00:00",
+  "updated_at": "2026-11-26T07:14:25.974258+00:00",
   "author": "Lluis Eriksson",
   "archive_url": "https://airr.science/",
-  "count": 71,
+  "count": 72,
   "papers": [
+    {
+      "number": 85,
+      "arr_id": "ARR-2026-7T8X04G4ER94ZA7E",
+      "title": "Constructive Lean 4 and Exact Finite-Field Certificates for the Vinogradov System and Polynomial Two-Source Extractors at Arbitrarily Small Min-Entropy Rate",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-7T8X04G4ER94ZA7E/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-7T8X04G4ER94ZA7E/ARR-2026-7T8X04G4ER94ZA7E-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/vinogradov-two-source-extractors-certificates"
+    },
+    {
+      "number": 84,
+      "arr_id": "ARR-2026-1F61YM5EHC95TBMP",
+      "title": "Constructive Lean 4 and Zero-Float Exact Rational Certificates for the Thermodynamic Budget of Objectivity and Biological Resource Horizons",
+      "primary_subject": "Physical sciences",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-1F61YM5EHC95TBMP/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-1F61YM5EHC95TBMP/ARR-2026-1F61YM5EHC95TBMP-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/thermodynamic-budget-objectivity-certificates"
+    },
     {
       "number": 81,
       "arr_id": "ARR-2026-1QZ9F8TJE880DVZW",
@@ -63,16 +83,6 @@
       "url": "https://airr.science/papers/ARR-2026-0WKHQBJJDA8C4VPT/",
       "pdf_url": "https://airr.science/papers/ARR-2026-0WKHQBJJDA8C4VPT/ARR-2026-0WKHQBJJDA8C4VPT-v1.pdf",
       "repository_url": "https://github.com/lluiseriksson/extension-complexity-cartesian-certificates"
-    },
-    {
-      "number": 75,
-      "arr_id": "ARR-2026-0WKHQBJJDA8C4VPT",
-      "title": "Exact Rational and Constructive Lean 4 Certificates for Triangles Without Pentagons, Induced C4-C5 Extremal Graphs, and 3-Uniform Berge-Cycle Hypergraphs",
-      "primary_subject": "Mathematics",
-      "source_preprint": "arXiv:2611.33685v1",
-      "url": "https://airr.science/papers/ARR-2026-0WKHQBJJDA8C4VPT/",
-      "pdf_url": "https://airr.science/papers/ARR-2026-0WKHQBJJDA8C4VPT/ARR-2026-0WKHQBJJDA8C4VPT-v1.pdf",
-      "repository_url": "https://github.com/lluiseriksson/triangles-without-pentagons-certificates"
     },
     {
       "number": 74,

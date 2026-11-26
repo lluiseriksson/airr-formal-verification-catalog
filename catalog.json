@@ -1,9 +1,19 @@
 {
-  "updated_at": "2026-11-26T07:14:25.974258+00:00",
+  "updated_at": "2026-11-26T08:54:16.923552+00:00",
   "author": "Lluis Eriksson",
   "archive_url": "https://airr.science/",
-  "count": 72,
+  "count": 75,
   "papers": [
+    {
+      "number": 88,
+      "arr_id": "ARR-2026-6F2FCZYGK691XS5S",
+      "title": "Formal Certification of Non-Additivity of Polytope Extension Complexity Under Cartesian Products",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-6F2FCZYGK691XS5S/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-6F2FCZYGK691XS5S/ARR-2026-6F2FCZYGK691XS5S-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/extension-complexity-nonadditivity-certificates"
+    },
     {
       "number": 85,
       "arr_id": "ARR-2026-7T8X04G4ER94ZA7E",
@@ -23,6 +33,16 @@
       "url": "https://airr.science/papers/ARR-2026-1F61YM5EHC95TBMP/",
       "pdf_url": "https://airr.science/papers/ARR-2026-1F61YM5EHC95TBMP/ARR-2026-1F61YM5EHC95TBMP-v1.pdf",
       "repository_url": "https://github.com/lluiseriksson/thermodynamic-budget-objectivity-certificates"
+    },
+    {
+      "number": 83,
+      "arr_id": "ARR-2026-1E91AXEJYT890TQC",
+      "title": "Mito-Polaritons Meet the Resource Boundary: Exact Hopfield A^2 Invariants, Thermodynamic Maintenance Horizons, and Constructive Lean 4 Certificates for the 71-THz Mitochondrial Quantum State",
+      "primary_subject": "Physical sciences",
+      "source_preprint": "ARR-2025-2AQXS44H6Z8GQAG2 + bioRxiv:10.64898/2026.09.10.750628v1",
+      "url": "https://airr.science/papers/ARR-2026-1E91AXEJYT890TQC/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-1E91AXEJYT890TQC/ARR-2026-1E91AXEJYT890TQC-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/mito-polariton-resource-boundary-certificates"
     },
     {
       "number": 81,
@@ -83,6 +103,16 @@
       "url": "https://airr.science/papers/ARR-2026-0WKHQBJJDA8C4VPT/",
       "pdf_url": "https://airr.science/papers/ARR-2026-0WKHQBJJDA8C4VPT/ARR-2026-0WKHQBJJDA8C4VPT-v1.pdf",
       "repository_url": "https://github.com/lluiseriksson/extension-complexity-cartesian-certificates"
+    },
+    {
+      "number": 75,
+      "arr_id": "ARR-2026-0WKHQBJJDA8C4VPT",
+      "title": "Exact Rational and Constructive Lean 4 Certificates for Triangles Without Pentagons, Induced C4-C5 Extremal Graphs, and 3-Uniform Berge-Cycle Hypergraphs",
+      "primary_subject": "Mathematics",
+      "source_preprint": "arXiv:2611.33685v1",
+      "url": "https://airr.science/papers/ARR-2026-0WKHQBJJDA8C4VPT/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-0WKHQBJJDA8C4VPT/ARR-2026-0WKHQBJJDA8C4VPT-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/triangles-without-pentagons-certificates"
     },
     {
       "number": 74,

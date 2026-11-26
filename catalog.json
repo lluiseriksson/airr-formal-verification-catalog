@@ -1,9 +1,19 @@
 {
-  "updated_at": "2026-11-26T08:54:16.923552+00:00",
+  "updated_at": "2026-11-26T09:44:23.655273+00:00",
   "author": "Lluis Eriksson",
   "archive_url": "https://airr.science/",
-  "count": 75,
+  "count": 78,
   "papers": [
+    {
+      "number": 90,
+      "arr_id": "ARR-2026-2JG3PCPJ9X8Y9A8P",
+      "title": "Formal Certification of the Nevo-Peeva Gap-Free Regularity Theorem and Hall Filtration Homology",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-2JG3PCPJ9X8Y9A8P/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-2JG3PCPJ9X8Y9A8P/ARR-2026-2JG3PCPJ9X8Y9A8P-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/nevo-peeva-gapfree-regularity-certificates"
+    },
     {
       "number": 88,
       "arr_id": "ARR-2026-6F2FCZYGK691XS5S",
@@ -13,6 +23,26 @@
       "url": "https://airr.science/papers/ARR-2026-6F2FCZYGK691XS5S/",
       "pdf_url": "https://airr.science/papers/ARR-2026-6F2FCZYGK691XS5S/ARR-2026-6F2FCZYGK691XS5S-v1.pdf",
       "repository_url": "https://github.com/lluiseriksson/extension-complexity-nonadditivity-certificates"
+    },
+    {
+      "number": 87,
+      "arr_id": "ARR-2026-22YKWXF9C494X8VP",
+      "title": "Formal Certification of Real Equiangular Lines in Dimensions 18-20, Leech Evaluation Codes, and Sharp Fixed-Angle Bounds",
+      "primary_subject": "Mathematics",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-22YKWXF9C494X8VP/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-22YKWXF9C494X8VP/ARR-2026-22YKWXF9C494X8VP-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/equiangular-lines-dim18-20-certificates"
+    },
+    {
+      "number": 86,
+      "arr_id": "ARR-2026-4VGGGBES9N9QKRJ9",
+      "title": "Formal Verification of Algebraic, Spectral, and One-Loop Entropy Bounds in Null-Cone Algebraic Quantum Gravity",
+      "primary_subject": "Physical sciences",
+      "source_preprint": "",
+      "url": "https://airr.science/papers/ARR-2026-4VGGGBES9N9QKRJ9/",
+      "pdf_url": "https://airr.science/papers/ARR-2026-4VGGGBES9N9QKRJ9/ARR-2026-4VGGGBES9N9QKRJ9-v1.pdf",
+      "repository_url": "https://github.com/lluiseriksson/null-cone-quantum-gravity-certificates"
     },
     {
       "number": 85,
